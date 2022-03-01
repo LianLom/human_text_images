@@ -1,1 +1,14 @@
 Фраза "with nice buttons on his jacket (buttons branch)" в файле README.txt в ветке local/master в ветке origin/demo заменена на точку(".").
+В репозитории 6 чужих коммитов и 5 моих, не считая тот, с которым я отправлю изменеия в этом файле.
+Вот эти коммиты в порядке от новых к старым:
+Add hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
