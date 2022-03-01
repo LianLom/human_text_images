@@ -1,0 +1,1 @@
+Фраза "with nice buttons on his jacket (buttons branch)" в файле README.txt в ветке local/master в ветке origin/demo заменена на точку(".").
